@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @avantika45s
-- <br>
-Author - Avantika 
+- 👋 Hi, I’m @avantika45
+- In this I have created static webpage of amazon cover page using html and CSS
